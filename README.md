@@ -1,2 +1,3 @@
-cd to mtl_history_map folder
-yarn http-server
+cd to mtl_history_map<br>
+yarn install<br>
+yarn http-server<br>

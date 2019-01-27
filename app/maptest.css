@@ -1,0 +1,253 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+#name{
+  color: red;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  border: 2px solid red;
+  font-family: sans-serif;
+  font-size: 5em;
+  text-align: center;
+}
+
+
+#headbar,
+#headbar ul,
+#headbar ul li,
+#headbar ul li a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  line-height: 1;
+  display: block;
+  position: relative;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#headbar:after,
+#headbar > ul:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+#headbar {
+  width: auto;
+  border-bottom: 3px solid red;
+  font-family: sans-serif;
+  line-height: 1;
+}
+#headbar ul {
+  background: white;
+}
+#headbar > ul > li {
+  float: left;
+}
+#headbar.align-center > ul {
+  font-size: 0;
+  text-align: center;
+}
+#headbar.align-center > ul > li {
+  display: inline-block;
+  float: none;
+}
+#headbar.align-right > ul > li {
+  float: right;
+}
+#headbar.align-right > ul > li > a {
+  margin-right: 0;
+  margin-left: -4px;
+}
+#headbar > ul > li > a {
+  z-index: 2;
+  padding: 18px 25px 12px 25px;
+  font-size: 30px;
+  font-weight: 400;
+  text-decoration: none;
+  color: black;
+  -webkit-transition: all .2s ease;
+  -moz-transition: all .2s ease;
+  -ms-transition: all .2s ease;
+  -o-transition: all .2s ease;
+  transition: all .2s ease;
+  margin-right: -4px;
+}
+#headbar > ul > li.active > a,
+#headbar > ul > li:hover > a,
+#headbar > ul > li > a:hover {
+  color: white;
+}
+#headbar > ul > li > a:after {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  width: 100%;
+  height: 120%;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  content: "";
+  -webkit-transition: all .2s ease;
+  -o-transition: all .2s ease;
+  transition: all .2s ease;
+  -webkit-transform: perspective(5px) rotateX(2deg);
+  -webkit-transform-origin: bottom;
+  -moz-transform: perspective(5px) rotateX(2deg);
+  -moz-transform-origin: bottom;
+  transform: perspective(5px) rotateX(2deg);
+  transform-origin: bottom;
+}
+#headbar > ul > li.active > a:after,
+#headbar > ul > li:hover > a:after,
+#headbar > ul > li > a:hover:after {
+  background: red;
+}
+
+#info {
+  color: red;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  border: 2px solid red;
+  font-family: sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+
+body{
+  width: 100%;
+  height: 100%;
+  margin:0
+  /*overflow: hidden;*/
+  position: relative;
+}
+
+footer{
+  position: absolute;
+  bottom:0;
+  background-color:red;
+  width: 100%;
+}
+
+.clear{
+  clear: both;
+  height=100px;
+}
+
+
+.inside{
+  margin-top:10px;
+  margin-bottom: 10px;
+  margin-left:30px;
+  margin-right:30px;
+  border-collapse: collapse;
+  background-color: white;
+  color:red;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding-left: 280px;
+}
+
+.data:link{
+  color:red;
+  text-decoration: none;
+}
+.data:visited{
+  color:red;
+}
+.data:hover{
+  color:blue;
+}
+
+.mapdata:link{
+  color:white;
+  text-decoration: none;
+}
+.mapdata:visited{
+  color:white;
+}
+.mapdata:hover{
+  color:blue;
+}
+
+.pop:link{
+  color:white;
+  text-decoration: none;
+}
+.pop:visited{
+  color:white;
+  text-decoration: none;
+}
+.pop:hover{
+  color:white;
+  text-decoration: none;
+}
+
+.sidenav{
+  height: 400px;
+  width: auto;
+  z-index: 1;
+  right:0;
+  background-color: red;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding-top:0;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 50;
+}
+
+.paddedcase{
+    padding-left: 20px;
+}
+
+.sidetable{
+  table-layout: auto;
+  width: 100%;
+  height: 100%;
+  color: white;
+
+}
+
+.mapfoot{
+  position: sticky;
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.scroll{
+  overflow-y: auto;
+}
+
+.mapsidenav{
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.mapinside{
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.data{
+  color: white;
+}
+
+#map {
+        height: 600px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+        position: absolute;
+       }
