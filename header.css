@@ -11,6 +11,7 @@
   text-align: center;
 }
 
+
 #headbar,
 #headbar ul,
 #headbar ul li,
@@ -106,4 +107,16 @@
 #headbar > ul > li:hover > a:after,
 #headbar > ul > li > a:hover:after {
   background: red;
+}
+
+#info {
+  color: red;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  border: 2px solid red;
+  font-family: sans-serif;
+  font-size: 3em;
+  text-align: center;
 }
