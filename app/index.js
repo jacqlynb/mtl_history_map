@@ -19,7 +19,8 @@ function initMap() {
     }).then(function(data) { 
         for(var i = 0; i < data.length; i++) {
             
-            var contentString = '<div><img src="' + data[i]["Fichier jpg - 200 dpi"] + '"style="width: 500px; height: auto;"></div>';
+            var contentString = `<div><img src="${data[i]["Fichier jpg - 200 dpi"]}"style="width: 500px; height: auto; padding-top: 5px;"></div>
+                                 <div id="caption"><p style="font-weight:bold; overflow-wrap: normal; width: 500px;  padding: 0; margin: 0; text-align:center; display: block;">${data[i]["Titre"]}<p></div>`;
             console.log(contentString);
             var infowindow = new google.maps.InfoWindow({
               content: contentString
