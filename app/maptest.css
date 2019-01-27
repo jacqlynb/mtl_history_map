@@ -121,14 +121,26 @@
   text-align: center;
 }
 
+body{
+  width: 100%;
+  height: 100%;
+  margin:0
+  /*overflow: hidden;*/
+  position: relative;
+}
+
 footer{
   position: absolute;
-  right:0;
   bottom:0;
-  left:0;
-  padding: 1rem;
   background-color:red;
+  width: 100%;
 }
+
+.clear{
+  clear: both;
+  height=100px;
+}
+
 
 .inside{
   margin-top:10px;
@@ -154,6 +166,17 @@ footer{
   color:blue;
 }
 
+.mapdata:link{
+  color:white;
+  text-decoration: none;
+}
+.mapdata:visited{
+  color:white;
+}
+.mapdata:hover{
+  color:blue;
+}
+
 .pop:link{
   color:white;
   text-decoration: none;
@@ -168,12 +191,12 @@ footer{
 }
 
 .sidenav{
-  height:60%;
-  width:400px;
-  position: fixed;
+  height: 400px;
+  width: auto;
   z-index: 1;
   right:0;
   background-color: red;
+  overflow-y: scroll;
   overflow-x: hidden;
   padding-top:0;
   font-family: sans-serif;
@@ -189,13 +212,42 @@ footer{
   table-layout: auto;
   width: 100%;
   height: 100%;
-  border: black;
   color: white;
 
 }
 
+.mapfoot{
+  position: sticky;
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.scroll{
+  overflow-y: auto;
+}
+
+.mapsidenav{
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.mapinside{
+  font-size: 30;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.data{
+  color: white;
+}
 
 #map {
         height: 600px;  /* The height is 400 pixels */
         width: 100%;  /* The width is the width of the web page */
+        position: absolute;
        }
