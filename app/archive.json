@@ -7,9 +7,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z2.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z2.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5144529,
-    "Longitude": -73.5519244
+    "isViolation": true,
+    "latitude": 45.5144529,
+    "longitude": -73.5519244
   },
   {
     "Titre": "Parc Lafontaine",
@@ -19,9 +19,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z3-4.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z3-4.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montréal",
-    "English bool": "FALSE",
-    "Latitude": 45.526181,
-    "Longitude": -73.568103
+    "isViolation": false,
+    "latitude": 45.526181,
+    "longitude": -73.568103
   },
   {
     "Titre": "Avenue du Mont-Royal",
@@ -31,9 +31,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z4.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z4.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.532943,
-    "Longitude": 73.574562
+    "isViolation": true,
+    "latitude": 45.532943,
+    "longitude": 73.574562
   },
   {
     "Titre": "Rue Drummond",
@@ -43,9 +43,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z5-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z5-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.497357,
-    "Longitude": -73.57161
+    "isViolation": true,
+    "latitude": 45.497357,
+    "longitude": -73.57161
   },
   {
     "Titre": "Rue Saint-Urbain",
@@ -55,9 +55,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z6.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z6.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.506426,
-    "Longitude": -73.559755
+    "isViolation": true,
+    "latitude": 45.506426,
+    "longitude": -73.559755
   },
   {
     "Titre": "Avenue du Mont-Royal",
@@ -67,9 +67,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z7-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z7-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.535784,
-    "Longitude": -73.57189
+    "isViolation": false,
+    "latitude": 45.535784,
+    "longitude": -73.57189
   },
   {
     "Titre": "Avenue du Mont-Royal",
@@ -79,9 +79,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z8.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z8.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.523958,
-    "Longitude": -73.582928
+    "isViolation": true,
+    "latitude": 45.523958,
+    "longitude": -73.582928
   },
   {
     "Titre": "Rue Kelly (devenue boulevard Henri-Bourassa) avant son pavage",
@@ -91,9 +91,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z11.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z11.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5098587,
-    "Longitude": -73.7266613
+    "isViolation": false,
+    "latitude": 45.5098587,
+    "longitude": -73.7266613
   },
   {
     "Titre": "Boulevard Saint-Laurent",
@@ -103,9 +103,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z12.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z12.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.512569,
-    "Longitude": -73.569478
+    "isViolation": true,
+    "latitude": 45.512569,
+    "longitude": -73.569478
   },
   {
     "Titre": "Boulevard Saint-Laurent coin avenue des Pins",
@@ -115,9 +115,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z13-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z13-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5150776,
-    "Longitude": -73.5751093
+    "isViolation": true,
+    "latitude": 45.5150776,
+    "longitude": -73.5751093
   },
   {
     "Titre": "Square d'Youville",
@@ -127,9 +127,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z15-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z15-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5017478,
-    "Longitude": -73.5573673
+    "isViolation": true,
+    "latitude": 45.5017478,
+    "longitude": -73.5573673
   },
   {
     "Titre": "Construction du Bain Mathieu (2915, rue Ontario Est)",
@@ -139,9 +139,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z16-2.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z16-2.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5374696,
-    "Longitude": -73.5521362
+    "isViolation": true,
+    "latitude": 45.5374696,
+    "longitude": -73.5521362
   },
   {
     "Titre": "Policier à la circulation à l'angle des rues de l'Inspecteur et Saint-Jacques",
@@ -151,9 +151,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z19.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z19.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.4976277,
-    "Longitude": -73.563955
+    "isViolation": true,
+    "latitude": 45.4976277,
+    "longitude": -73.563955
   },
   {
     "Titre": "Palais de justice de Montréal (155, rue Notre-Dame Est)",
@@ -163,9 +163,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z20.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z20.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.508148,
-    "Longitude": -73.554894
+    "isViolation": false,
+    "latitude": 45.508148,
+    "longitude": -73.554894
   },
   {
     "Titre": "Hôtel de ville de Montréal (275, rue Notre-Dame Est)",
@@ -175,9 +175,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z22.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z22.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.503051,
-    "Longitude": -73.558351
+    "isViolation": false,
+    "latitude": 45.503051,
+    "longitude": -73.558351
   },
   {
     "Titre": "Ancien Marché Saint-Jacques (1125, rue Ontario Est)",
@@ -187,9 +187,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z23-2.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z23-2.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5206759,
-    "Longitude": -73.5655785
+    "isViolation": false,
+    "latitude": 45.5206759,
+    "longitude": -73.5655785
   },
   {
     "Titre": "Rue McGill",
@@ -199,9 +199,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z24.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z24.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.500006,
-    "Longitude": -73.5588312
+    "isViolation": true,
+    "latitude": 45.500006,
+    "longitude": -73.5588312
   },
   {
     "Titre": "Marché Saint-Jacques (1125 rue Ontario Est)",
@@ -211,9 +211,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z25-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z25-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5206759,
-    "Longitude": -73.5655785
+    "isViolation": false,
+    "latitude": 45.5206759,
+    "longitude": -73.5655785
   },
   {
     "Titre": "Usine de pompage et réservoir McTavish (815,rue McGregor - aujourd'hui avenue du Docteur-Penfield)",
@@ -223,9 +223,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z26.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z26.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5055329,
-    "Longitude": -73.5809648
+    "isViolation": false,
+    "latitude": 45.5055329,
+    "longitude": -73.5809648
   },
   {
     "Titre": "Marché Saint-Antoine (Côté nord de la rue Saint-Jacques prés de la rue de la Montagne)",
@@ -235,9 +235,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z27-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z27-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.493748,
-    "Longitude": -73.5686159
+    "isViolation": true,
+    "latitude": 45.493748,
+    "longitude": -73.5686159
   },
   {
     "Titre": "Autopompe du Service des incendies de la Ville de Montréal.",
@@ -247,9 +247,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z34-2B.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z34-2B.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.522617,
-    "Longitude": -73.5654102
+    "isViolation": false,
+    "latitude": 45.522617,
+    "longitude": -73.5654102
   },
   {
     "Titre": "Refuge Meurling (435 rue Champ-de-Mars)",
@@ -259,9 +259,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z35.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z35.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5109901,
-    "Longitude": -73.5553445
+    "isViolation": false,
+    "latitude": 45.5109901,
+    "longitude": -73.5553445
   },
   {
     "Titre": "Cabaret Chinese Paradise Chop Suey (53-57, rue de La Gaucheti�re)",
@@ -271,9 +271,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z42-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z42-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.507539,
-    "Longitude": "-75,560,406"
+    "isViolation": true,
+    "latitude": 45.507539,
+    "longitude": -75.560406
   },
   {
     "Titre": "Aqueduc de Montréal (devenu usine de traitement Atwater - 3161, rue Joseph)",
@@ -283,9 +283,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z58-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z58-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.470537,
-    "Longitude": -73.571782
+    "isViolation": false,
+    "latitude": 45.470537,
+    "longitude": -73.571782
   },
   {
     "Titre": "H�tel Mont-Royal (devenu Les Cours Mont-Royal - 1455, rue Peel)",
@@ -295,9 +295,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z59-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z59-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.500937,
-    "Longitude": -73.574629
+    "isViolation": false,
+    "latitude": 45.500937,
+    "longitude": -73.574629
   },
   {
     "Titre": "Château Dufresne (4040, rue Sherbrooke Est, à l'angle du boulevard Pie IX)",
@@ -307,9 +307,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z60.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z60.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.554273,
-    "Longitude": -73.554556
+    "isViolation": false,
+    "latitude": 45.554273,
+    "longitude": -73.554556
   },
   {
     "Titre": "American Can Company (2030-2032, boulevard Pie IX, à l'angle de la rue Ontario)",
@@ -319,9 +319,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z64-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z64-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.550276,
-    "Longitude": -73.541329
+    "isViolation": true,
+    "latitude": 45.550276,
+    "longitude": -73.541329
   },
   {
     "Titre": "Grand magasin Morgans (devenu La Baie- 587 rue Sainte-Catherine Ouest, entre les rues Union et Aylmer)",
@@ -331,9 +331,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z66-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z66-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.50442,
-    "Longitude": -73.570045
+    "isViolation": true,
+    "latitude": 45.50442,
+    "longitude": -73.570045
   },
   {
     "Titre": "Grand magasin Eaton's (677, rue Sainte-Catherine Ouest, à l'angle de la rue McGill)",
@@ -343,9 +343,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z67.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z67.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.503181,
-    "Longitude": -73.569811
+    "isViolation": true,
+    "latitude": 45.503181,
+    "longitude": -73.569811
   },
   {
     "Titre": "Grand magasin Simpson's (977,rue Sainte-Catherine Ouest, entre les rues Metcalfe et Mansfield)",
@@ -355,9 +355,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z69-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z69-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.501044,
-    "Longitude": -73.571923
+    "isViolation": true,
+    "latitude": 45.501044,
+    "longitude": -73.571923
   },
   {
     "Titre": "Hôtel Berkeley (1188, rue Sherbrooke Ouest, entre les rues Drummond et Stanley)",
@@ -367,9 +367,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z73-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z73-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.500788,
-    "Longitude": -73.577616
+    "isViolation": true,
+    "latitude": 45.500788,
+    "longitude": -73.577616
   },
   {
     "Titre": "Marché Atwater (110-154, avenue Atwater, entre les rues Saint-Ambroise et St-Emile)",
@@ -379,9 +379,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z81-2.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z81-2.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.478779,
-    "Longitude": -73.576289
+    "isViolation": false,
+    "latitude": 45.478779,
+    "longitude": -73.576289
   },
   {
     "Titre": "Marché Bonsecours vu de la rue des Commissaires (devenu rue de la Commune)",
@@ -391,9 +391,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z83-B.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z83-B.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.50819,
-    "Longitude": -73.55154
+    "isViolation": false,
+    "latitude": 45.50819,
+    "longitude": -73.55154
   },
   {
     "Titre": "Bain Gallery (1310, rue Wellington)",
@@ -403,9 +403,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z86-6.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z86-6.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.487091,
-    "Longitude": -73.557385
+    "isViolation": true,
+    "latitude": 45.487091,
+    "longitude": -73.557385
   },
   {
     "Titre": "Fort de l'Île Sainte-Hélène (aujourd'hui musée Stewart)",
@@ -415,9 +415,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z89-2.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z89-2.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.519686,
-    "Longitude": -73.536033
+    "isViolation": false,
+    "latitude": 45.519686,
+    "longitude": -73.536033
   },
   {
     "Titre": "Pont Jacques-Cartier",
@@ -427,9 +427,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z89-3.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z89-3.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5219339,
-    "Longitude": -73.5446118
+    "isViolation": false,
+    "latitude": 45.5219339,
+    "longitude": -73.5446118
   },
   {
     "Titre": "Tour de Lévis et blockhaus sur l'Île Sainte-Hélène",
@@ -439,9 +439,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z89-5.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z89-5.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5187709,
-    "Longitude": -73.5372713
+    "isViolation": false,
+    "latitude": 45.5187709,
+    "longitude": -73.5372713
   },
   {
     "Titre": "Incinérateur Des Carrières (à l'arrière des écuries du 1500 rue des Carrières)",
@@ -451,9 +451,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z90-3.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z90-3.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5376359,
-    "Longitude": -73.5891918
+    "isViolation": false,
+    "latitude": 45.5376359,
+    "longitude": -73.5891918
   },
   {
     "Titre": "Caserne de pompiers no 30 (ancien h�tel de ville de Saint-Louis - 5, rue Laurier Ouest)",
@@ -463,9 +463,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z93-B.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z93-B.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5228896,
-    "Longitude": -73.5951375
+    "isViolation": true,
+    "latitude": 45.5228896,
+    "longitude": -73.5951375
   },
   {
     "Titre": "Reconstruction de l'h�tel de ville de Montr�al",
@@ -475,9 +475,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z98-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z98-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5089229,
-    "Longitude": -73.5565212
+    "isViolation": false,
+    "latitude": 45.5089229,
+    "longitude": -73.5565212
   },
   {
     "Titre": "March� Saint-Laurent (aujourd'hui d�moli - 1180, boulevard Saint-Laurent)",
@@ -487,9 +487,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z100.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z100.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.508988,
-    "Longitude": -73.562232
+    "isViolation": true,
+    "latitude": 45.508988,
+    "longitude": -73.562232
   },
   {
     "Titre": "March� Maisonneuve (4375, rue Ontario Est, face au boulevard Morgan)",
@@ -499,9 +499,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z101.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z101.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.553804,
-    "Longitude": -73.540353
+    "isViolation": false,
+    "latitude": 45.553804,
+    "longitude": -73.540353
   },
   {
     "Titre": "Banque de Montr�al sur la  Place d'Armes (119, rue St-Jacques)",
@@ -511,9 +511,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z109-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z109-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.50505,
-    "Longitude": -73.557987
+    "isViolation": false,
+    "latitude": 45.50505,
+    "longitude": -73.557987
   },
   {
     "Titre": "Laiterie Mount Royal Dairies (1200, avenue Papineau)",
@@ -523,9 +523,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z110-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z110-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.521683,
-    "Longitude": -73.551005
+    "isViolation": true,
+    "latitude": 45.521683,
+    "longitude": -73.551005
   },
   {
     "Titre": "Brasserie Molson (1590, rue Notre-Dame Est)",
@@ -535,9 +535,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z111.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z111.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.519208,
-    "Longitude": -73.547676
+    "isViolation": false,
+    "latitude": 45.519208,
+    "longitude": -73.547676
   },
   {
     "Titre": "Eglise Saint-Pierre Saint-Pierre-Ap�tre (1201, rue de la Visitation)",
@@ -547,9 +547,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z113.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z113.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.518659,
-    "Longitude": -73.553533
+    "isViolation": true,
+    "latitude": 45.518659,
+    "longitude": -73.553533
   },
   {
     "Titre": "Pharmacie Montr�al (916, rue Ste-Catherine Est)",
@@ -559,9 +559,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z115.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z115.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.516524,
-    "Longitude": -73.55751
+    "isViolation": true,
+    "latitude": 45.516524,
+    "longitude": -73.55751
   },
   {
     "Titre": "Magasin Metropolitain Stores (5637, avenue du Parc)",
@@ -571,9 +571,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z118.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z118.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.523031,
-    "Longitude": -73.603412
+    "isViolation": true,
+    "latitude": 45.523031,
+    "longitude": -73.603412
   },
   {
     "Titre": "Cin�ma Rialto (5723, avenue du Parc)",
@@ -583,9 +583,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z119.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z119.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.523634,
-    "Longitude": -73.604791
+    "isViolation": true,
+    "latitude": 45.523634,
+    "longitude": -73.604791
   },
   {
     "Titre": "Ecole des Hautes �tudes Commerciales (devenu Centre d%u2019archives de Montr�al de BAnQ - 535, rue Vitr� %u2013 devenu rue Viger).",
@@ -595,9 +595,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z120.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z120.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.512332,
-    "Longitude": -73.5540148
+    "isViolation": false,
+    "latitude": 45.512332,
+    "longitude": -73.5540148
   },
   {
     "Titre": "H�pital Saint-Luc (devenu CHUM - 1058, rue Saint-Denis)",
@@ -607,9 +607,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z121.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z121.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5121294,
-    "Longitude": -73.5599315
+    "isViolation": true,
+    "latitude": 45.5121294,
+    "longitude": -73.5599315
   },
   {
     "Titre": "Cin�ma Ch�teau (6956, rue Saint-Denis, à l'angle de la rue B�langer)",
@@ -619,9 +619,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z125.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z125.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5371701,
-    "Longitude": -73.6144947
+    "isViolation": false,
+    "latitude": 45.5371701,
+    "longitude": -73.6144947
   },
   {
     "Titre": "Institut des sourds et muets (7400, boulevard Saint-Laurent)",
@@ -631,9 +631,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z126.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z126.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5354377,
-    "Longitude": -73.6236168
+    "isViolation": true,
+    "latitude": 45.5354377,
+    "longitude": -73.6236168
   },
   {
     "Titre": "Young Men's Christian Association (YMCA) (5550, avenue du Parc, à l'angle de la rue St-Viateur)",
@@ -643,9 +643,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z127.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z127.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5220798,
-    "Longitude": -73.6047838
+    "isViolation": false,
+    "latitude": 45.5220798,
+    "longitude": -73.6047838
   },
   {
     "Titre": "Sir Mortimer-B. Davis Memorial Building (265, rue Mont-Royal Ouest, à l'angle de la rue Jeanne Mance)",
@@ -655,9 +655,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z128.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z128.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5173614,
-    "Longitude": -73.5912491
+    "isViolation": true,
+    "latitude": 45.5173614,
+    "longitude": -73.5912491
   },
   {
     "Titre": "Basilique Notre-Dame (116, rue Notre-Dame Ouest)",
@@ -667,9 +667,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z129.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z129.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5043378,
-    "Longitude": -73.5591612
+    "isViolation": false,
+    "latitude": 45.5043378,
+    "longitude": -73.5591612
   },
   {
     "Titre": "Gare Jean-Talon (7255, rue Hutchison)",
@@ -679,9 +679,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z132-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z132-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.530259,
-    "Longitude": -73.6262443
+    "isViolation": true,
+    "latitude": 45.530259,
+    "longitude": -73.6262443
   },
   {
     "Titre": "Usine de nettoyage The New Method Washing Limited (6455, rue Christophe-Colomb)",
@@ -691,9 +691,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z133-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z133-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5379737,
-    "Longitude": -73.603272
+    "isViolation": true,
+    "latitude": 45.5379737,
+    "longitude": -73.603272
   },
   {
     "Titre": "Stade Delorimier (2101-2109, rue Ontario Est)",
@@ -703,9 +703,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z135-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z135-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5285986,
-    "Longitude": -73.5592048
+    "isViolation": true,
+    "latitude": 45.5285986,
+    "longitude": -73.5592048
   },
   {
     "Titre": "Bain Maisonneuve (devenu bain Morgan - 1875, boulevard Morgan)",
@@ -715,9 +715,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z136.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z136.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5535522,
-    "Longitude": -73.540377
+    "isViolation": false,
+    "latitude": 45.5535522,
+    "longitude": -73.540377
   },
   {
     "Titre": "Marché Maisonneuve (4445, rue Ontario Est)",
@@ -727,9 +727,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z137-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z137-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.5540746,
-    "Longitude": -73.5413517
+    "isViolation": false,
+    "latitude": 45.5540746,
+    "longitude": -73.5413517
   },
   {
     "Titre": "Mus�e des Beaux-Arts de Montréal (1379, rue Sherbrooke Ouest)",
@@ -739,9 +739,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z142-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z142-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.498783,
-    "Longitude": -73.582115
+    "isViolation": false,
+    "latitude": 45.498783,
+    "longitude": -73.582115
   },
   {
     "Titre": "Medical Art Building (1538, rue Sherbrooke Ouest, à l'angle de la rue Guy)",
@@ -751,9 +751,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z143-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z143-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.4963966,
-    "Longitude": -73.5823076
+    "isViolation": true,
+    "latitude": 45.4963966,
+    "longitude": -73.5823076
   },
   {
     "Titre": "Hôpital Général de Montréal (2300, rue Tupper)",
@@ -763,9 +763,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z145.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z145.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.4889368,
-    "Longitude": -73.584788
+    "isViolation": false,
+    "latitude": 45.4889368,
+    "longitude": -73.584788
   },
   {
     "Titre": "�difice Keefer (1440, rue Sainte-Catherine Ouest)",
@@ -775,9 +775,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z146.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z146.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.4960236,
-    "Longitude": -73.5787512
+    "isViolation": true,
+    "latitude": 45.4960236,
+    "longitude": -73.5787512
   },
   {
     "Titre": "Édifice de Canada Cement Company (606, rue Cathcart)",
@@ -787,9 +787,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z147.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z147.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5034904,
-    "Longitude": -73.5703083
+    "isViolation": true,
+    "latitude": 45.5034904,
+    "longitude": -73.5703083
   },
   {
     "Titre": "Marché Saint-Laurent  (1180, boulevard Saint-Laurent, à l'angle de la rue Dorchester 2013 devenue boulevard René-Lévesque)",
@@ -799,9 +799,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z154-2.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z154-2.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.5088432,
-    "Longitude": -73.5621525
+    "isViolation": true,
+    "latitude": 45.5088432,
+    "longitude": -73.5621525
   },
   {
     "Titre": "Cour de pierres à bordure près de l'incinérateur de la rue Carrières",
@@ -811,9 +811,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z156-5.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z156-5.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.518083,
-    "Longitude": -73.581415
+    "isViolation": false,
+    "latitude": 45.518083,
+    "longitude": -73.581415
   },
   {
     "Titre": "Marché Saint-Jean-Baptiste (4203, boulevard Saint-Laurent)",
@@ -823,9 +823,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z157-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z157-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.518181,
-    "Longitude": -73.581393
+    "isViolation": false,
+    "latitude": 45.518181,
+    "longitude": -73.581393
   },
   {
     "Titre": "Escalier de bois menant au mont Royal et situé en face de la rue Stanley",
@@ -835,9 +835,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z158.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z158.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.507552,
-    "Longitude": -73.587364
+    "isViolation": false,
+    "latitude": 45.507552,
+    "longitude": -73.587364
   },
   {
     "Titre": "Plage de l'Île Sainte-Hélène",
@@ -847,9 +847,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z159-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z159-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.51998,
-    "Longitude": -73.532673
+    "isViolation": false,
+    "latitude": 45.51998,
+    "longitude": -73.532673
   },
   {
     "Titre": "Vue d'ensemble du parc La Fontaine",
@@ -859,9 +859,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z161-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z161-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.526582,
-    "Longitude": -73.569302
+    "isViolation": false,
+    "latitude": 45.526582,
+    "longitude": -73.569302
   },
   {
     "Titre": "Étang du parc La Fontaine",
@@ -871,9 +871,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z161-2.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z161-2.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.527941,
-    "Longitude": -73.569226
+    "isViolation": false,
+    "latitude": 45.527941,
+    "longitude": -73.569226
   },
   {
     "Titre": "Pont Degrelle du parc La Fontaine",
@@ -883,9 +883,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z161-4.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z161-4.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.526582,
-    "Longitude": -73.569409
+    "isViolation": false,
+    "latitude": 45.526582,
+    "longitude": -73.569409
   },
   {
     "Titre": "Portes Roddick et entrée principale de l'Université McGill",
@@ -895,9 +895,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z163-3.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z163-3.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.508194,
-    "Longitude": -73.578671
+    "isViolation": true,
+    "latitude": 45.508194,
+    "longitude": -73.578671
   },
   {
     "Titre": "Boulevard Saint-Joseph",
@@ -907,9 +907,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z165.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z165.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.539422,
-    "Longitude": -73.575756
+    "isViolation": false,
+    "latitude": 45.539422,
+    "longitude": -73.575756
   },
   {
     "Titre": "Rue Des Commissaires (devenue rue de la Commune)",
@@ -919,9 +919,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z167-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z167-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.493239,
-    "Longitude": -73.554938
+    "isViolation": true,
+    "latitude": 45.493239,
+    "longitude": -73.554938
   },
   {
     "Titre": "Pont Jacques-Cartier",
@@ -931,9 +931,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z168-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z168-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.522133,
-    "Longitude": -73.542423
+    "isViolation": false,
+    "latitude": 45.522133,
+    "longitude": -73.542423
   },
   {
     "Titre": "Port de Montréal",
@@ -943,9 +943,9 @@
     "Fichier tif - 300 dpi": "S/O",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z168-2.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.51402,
-    "Longitude": -73.548358
+    "isViolation": false,
+    "latitude": 45.51402,
+    "longitude": -73.548358
   },
   {
     "Titre": "Hôtel Ford (1425, boulevard Dorchester Ouest, devenu boulevard René-Lévesque)",
@@ -955,9 +955,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z171.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z171.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.495318,
-    "Longitude": -73.574147
+    "isViolation": false,
+    "latitude": 45.495318,
+    "longitude": -73.574147
   },
   {
     "Titre": "Hôtel Windsor (1170, rue Peel, à l'angle de la rue Cypress)",
@@ -967,9 +967,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z172-2.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z172-2.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.499073,
-    "Longitude": -73.571097
+    "isViolation": true,
+    "latitude": 45.499073,
+    "longitude": -73.571097
   },
   {
     "Titre": "Hôtel Ritz-Carlton (1228, rue Sherbrooke Ouest, entre les rues Drummond et de la Montagne)",
@@ -979,9 +979,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z173-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z173-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.499973,
-    "Longitude": -73.577984
+    "isViolation": true,
+    "latitude": 45.499973,
+    "longitude": -73.577984
   },
   {
     "Titre": "Dominion Square Building (1010, rue Sainte-Catherine Ouest, entre les rues Peel et Metcalfe)",
@@ -991,9 +991,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z174-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z174-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.500412,
-    "Longitude": -73.572067
+    "isViolation": true,
+    "latitude": 45.500412,
+    "longitude": -73.572067
   },
   {
     "Titre": "Cathédrale Saint-Jacques-le-Majeur (aujourd'hui cathédrale Maie-Reine-du-Monde - boulevard Dorchester Ouest, aujourd'hui boulevard René-Lévesque Ouest)",
@@ -1003,9 +1003,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z175-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z175-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.499413,
-    "Longitude": -73.56822
+    "isViolation": false,
+    "latitude": 45.499413,
+    "longitude": -73.56822
   },
   {
     "Titre": "Bibliothèque Saint-Sulpice (devenue Bibliothèque nationale du Québec- 1700, rue Saint-Denis)",
@@ -1015,9 +1015,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z176-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z176-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.515353,
-    "Longitude": -73.564088
+    "isViolation": false,
+    "latitude": 45.515353,
+    "longitude": -73.564088
   },
   {
     "Titre": "Immeuble d'habitation Le Chateau (1321, rue Sherbrooke Ouest)",
@@ -1027,9 +1027,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z177-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z177-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.499684,
-    "Longitude": -73.579202
+    "isViolation": true,
+    "latitude": 45.499684,
+    "longitude": -73.579202
   },
   {
     "Titre": "Bassin et fontaine du parc La Fontaine",
@@ -1039,9 +1039,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z178-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z178-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.526582,
-    "Longitude": -73.569313
+    "isViolation": false,
+    "latitude": 45.526582,
+    "longitude": -73.569313
   },
   {
     "Titre": "Rue Saint-Hubert",
@@ -1051,9 +1051,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z179-3.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z179-3.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.544469,
-    "Longitude": -73.620906
+    "isViolation": true,
+    "latitude": 45.544469,
+    "longitude": -73.620906
   },
   {
     "Titre": "Construction de l'Hôtel Laurentien (angle des rues Peel et Dorchester  - aujourd'hui boulevard René-Lévesque)",
@@ -1063,9 +1063,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z181-3.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z181-3.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.824872,
-    "Longitude": -74.283672
+    "isViolation": true,
+    "latitude": 45.824872,
+    "longitude": -74.283672
   },
   {
     "Titre": "Rue Osborne (aujourd'hui de Lagauchetière)",
@@ -1075,9 +1075,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z181-4.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z181-4.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.501826,
-    "Longitude": -73.563843
+    "isViolation": true,
+    "latitude": 45.501826,
+    "longitude": -73.563843
   },
   {
     "Titre": "Église Saint-Georges (1086, rue Osborne - devenu rue de La gauchetière)",
@@ -1087,9 +1087,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z181-5.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z181-5.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.504922,
-    "Longitude": -73.569001
+    "isViolation": true,
+    "latitude": 45.504922,
+    "longitude": -73.569001
   },
   {
     "Titre": "Maison Frederick Thomas Judah (1980, rue Dorchester Ouest - devenu boulevard René-Lévesque)",
@@ -1099,9 +1099,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z184-9.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z184-9.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "FALSE",
-    "Latitude": 45.489936,
-    "Longitude": -73.579098
+    "isViolation": false,
+    "latitude": 45.489936,
+    "longitude": -73.579098
   },
   {
     "Titre": "Ruines de l'Église Knox Crescent Presbyterian Church (rue Dorchester Ouest - aujourd'hui boulevard René-Lévesque Ouest - angle de la rue Crescent)",
@@ -1111,9 +1111,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z184-11.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z184-11.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.498205,
-    "Longitude": -73.571076
+    "isViolation": true,
+    "latitude": 45.498205,
+    "longitude": -73.571076
   },
   {
     "Titre": "Garage Tilden Drive Yourself et Hertz Dri-Ur-Self System (situé à l'intersection des rues Dorchester Ouest - devenu boulevard René-Lévesque Ouest - et Windsor  - devenu rue Peel)",
@@ -1123,9 +1123,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z184-14.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z184-14.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 42.985967,
-    "Longitude": -81.049256
+    "isViolation": true,
+    "latitude": 42.985967,
+    "longitude": -81.049256
   },
   {
     "Titre": "Construction du tunnel et du pont ferroviaire de la rue Moreau",
@@ -1135,9 +1135,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z190-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z190-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.539842,
-    "Longitude": -73.548468
+    "isViolation": true,
+    "latitude": 45.539842,
+    "longitude": -73.548468
   },
   {
     "Titre": "Policier à la circulation au coin des rues Saint-Luc et Saint-Mathieu",
@@ -1147,9 +1147,9 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z199-1.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z199-1.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.4942083,
-    "Longitude": -73.5831915
+    "isViolation": true,
+    "latitude": 45.4942083,
+    "longitude": -73.5831915
   },
   {
     "Titre": "Pompiers à bord d'un véhicule équipé de la grande échelle devant la caserne no 10 (1684, rue Saint-Luc - devenu boulevard de Maisonneuve Ouest)",
@@ -1159,8 +1159,8 @@
     "Fichier tif - 300 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/tiff/VM94-Z199-5.tif",
     "Fichier jpg - 200 dpi": "http://depot.ville.montreal.qc.ca/phototheque-archives/jpeg/VM94-Z199-5.jpg",
     "Mention de cr�dits": "Archives de la Ville de Montr�al",
-    "English bool": "TRUE",
-    "Latitude": 45.4945874,
-    "Longitude": -73.5824221
+    "isViolation": true,
+    "latitude": 45.4945874,
+    "longitude": -73.5824221
   }
 ]

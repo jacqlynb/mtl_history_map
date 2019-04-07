@@ -14,28 +14,40 @@ function initMap() {
   var marker = new google.maps.Marker({position: montreal, map: map});
 
   // iterate through JSON array
-  fetch('archive.json').then(function(response) {
-    return response.json();
-    }).then(function(data) { 
-        for(var i = 0; i < data.length; i++) {
-            
-            var contentString = `<div><img src="${data[i]["Fichier jpg - 200 dpi"]}"style="width: 500px; height: auto; padding-top: 5px;"></div>
-                                 <div id="caption"><p style="font-weight:bold; overflow-wrap: normal; width: 500px;  padding: 0; margin: 0; text-align:center; display: block;">${data[i]["Titre"]}<p></div>`;
-            console.log(contentString);
-            var infowindow = new google.maps.InfoWindow({
-              content: contentString
-            });
+  fetch('archive.json')
+    .then(response => response.json())
+    .then(function(landmarks) { 
+      landmarks.forEach(function(landmark, i) {
+        var contentString = `<div><img src="${landmark["Fichier jpg - 200 dpi"]}"style="width: 500px; height: auto; padding-top: 5px;"></div>
+        <div id="caption"><p style="font-weight:bold; overflow-wrap: normal; width: 500px;  padding: 0; margin: 0; text-align:center; display: block;">${landmark["Titre"]} - ${landmark["Date"]}<p></div>
+        <button id="violation-${i}">Violation</button>`;
 
-          var marker = new google.maps.Marker({
-              position: {lat: parseFloat(data[i]["Latitude"]), lng: parseFloat(data[i]["Longitude"])}, 
-              map: map,
-              info: contentString
-            });
-          
-          google.maps.event.addListener(marker, 'click', function() {
-            infowindow.setContent(this.info);
-            infowindow.open(map, this);
+        var infowindow = new google.maps.InfoWindow({content: contentString});
+
+        const {latitude: lat, longitude: lng} = landmark;
+
+        var marker = new google.maps.Marker({
+          position: {lat, lng}, 
+          map,
+          info: contentString
+        });
+
+        google.maps.event.addListener(marker, 'click', function() {
+          infowindow.setContent(this.info);
+          infowindow.open(map, this);
+        });
+
+        google.maps.event.addListener(infowindow, 'domready', () => {
+          document.getElementById(`violation-${i}`).addEventListener('click', () => {
+            console.log('isViolation', landmark.isViolation);
+
+            if (landmark.isViolation) {
+              console.log('Violation!');
+            } else {
+              console.log('Not!');
+            }
           });
-        }
+        });
+      })
     });
 }
